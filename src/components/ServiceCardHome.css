@@ -1,0 +1,84 @@
+.serviceCardHome__container {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin: 5px 1.6% 5px 1.7%;
+    padding: 2% 0 2px 3.4%;
+    border: 3px solid #dbf6e9;
+    border-radius: 10%;
+  }
+
+  .serviceCardHome__imageBox {
+      height: 62%;
+      padding-left: 2%;
+  }
+  
+  .serviceCardHome__image {
+    border-radius: 20%;
+    max-height:100% ;
+  }
+  
+  .serviceCardHome__middle {
+    margin: 1% 2% 1% 5%;
+    color: #000;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+  }
+
+.serviceCardHome__container:hover .serviceCardHome__middle {
+    background-color: #dbf6e9;
+    box-shadow: 5px 5px 5px 5px #9ddfd3;
+    margin-top: -5px;
+    margin-left: -5px;
+    border-radius: 10%;
+}
+
+  @media screen and (max-width:1130px){
+      .serviceCardHome__container {
+          padding-left: 6%;
+      }
+  }  
+
+  @media screen and (max-width:910px) {
+    .serviceCardHome__container {
+      padding-right: 3.2%;
+    }
+  }
+  
+  @media screen and (max-width:300px) {
+    .serviceCardHome__container {
+      padding-left: 20%;
+      padding-top: 5%;
+    }
+    .serviceCardHome__imageBox {
+      width: 80%;
+      height: 50%;
+      padding-left:2%;
+    }
+    .serviceCardHome__image {
+      max-width: 100%;
+    }
+    .serviceCardHome__middle h3 {
+        font-size: 20px;
+    }
+    .serviceCardHome__middle h5 {
+        font-size: 17px;
+    }
+  }
+  
+  @media screen and (max-width:225px) {
+    .serviceCardHome__container {
+      padding-left: 10%;
+    }
+    .serviceCardHome__imageBox {
+      width: 70%;
+      height: 40%;
+    }
+    .serviceCardHome__middle h3 {
+        font-size: 16px;
+    }
+    .serviceCardHome__middle h5 {
+        font-size: 12px;
+    }
+  }

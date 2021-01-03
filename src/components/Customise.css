@@ -1,0 +1,148 @@
+.customise__container {
+    box-sizing: content-box;
+    max-width: 1200px;
+    margin:50px auto 0 auto ;
+    box-sizing: border-box;
+    padding-top: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    display: block;
+    align-items:center;
+  }
+  
+  .customise__container last-child {
+    margin-bottom: 0;
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .customise__container{
+      padding-bottom: 5px;
+      font-size: 14px;
+    }
+  }
+  
+  @media (min-width: 640px) {
+    .customise__container {
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+  }
+  
+  .cutomise__title{
+    position: relative;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .customise__title h2 {
+    font-weight: 700;
+    line-height: 1.3;
+    color: #4e6b63;
+    text-shadow: 2px 2px #dbf6e9;
+  }
+  
+  #bar {
+    position: relative;
+    z-index: 1;
+    background: #9ddfd3;
+    width: 80%;
+    height: 2px;
+    margin-top: 12px;
+    transition: 2s;
+    margin-left: 5%;
+  }
+  
+  #bar::before {
+    right: 45%;
+  }
+  #bar::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 15px;
+    top: 0;
+    background: #ffffff;
+    transition: 0.5s;
+  }
+  #bar::after {
+    right: 14%;
+  }
+  
+  #bar::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 8px;
+    top: 0;
+    background: #ffffff;
+    transition: 0.5s;
+  }
+
+  .customise__form {
+    margin: 3% 0 2% 28%;
+  }
+
+  @media screen and (max-width:1024px) {
+    .customise__form {
+      margin: 3% 22% 2% 22%;
+    }
+  }
+  @media screen and (max-width:880px) {
+    .customise__form {
+      margin: 3% 18% 2% 18%;
+    }
+  }
+@media screen and (max-width:770px) {
+    .customise__form {
+      margin: 3% 15% 2% 15%;
+    }
+    .customise__message {
+      max-width: 70%;
+    }
+  }
+  @media screen and (max-width:550px) {
+    .customise__form {
+      margin: 3% 10% 2% 10%;
+    }
+    .customise__message {
+      max-width: 60%;
+    }
+  }
+  @media screen and (max-width:440px) {
+    .customise__form {
+      margin: 3% 8% 2% 8%;
+    }
+    .customise__message {
+      max-width: 50%;
+    }
+  } 
+  @media screen and (max-width:370px) {
+    .customise__form {
+      margin: 3% 5% 2% 5%;
+    }
+    .customise__message {
+      max-width: 40%;
+    }
+  }
+  @media screen and (max-width:270px) {
+    .customise__form {
+      margin: 3% 2% 2% 2%;
+    }
+    .customise__message {
+      max-width: 30%;
+    }
+  }
+  @media screen and (max-width:210px) {
+    .customise__form {
+      margin: 3% 2% 2% 2%;
+    }
+    .customise__message {
+      max-width: 20%;
+    }
+  }
+  .customise__message{
+      margin:20px;
+      width:500px;
+      height:250px;
+      padding:10px;
+  }

@@ -1,0 +1,74 @@
+.weOffer__icon {
+  margin-top: 10px;
+  color: #4e6b63;
+  margin-left: 10px;
+  font-size: 10px;
+}
+
+.weOffer__item {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  flex-direction: column;
+  border-radius: 50px;
+  border: 3px solid #dbf6e9;
+  padding: 2px 2px 2px 2px;
+  margin: 8px 1% 8px 1%;
+}
+.weOffer__subtitle {
+  color: #000;
+  line-height: 1.9;
+  margin: 0 5px 7px 8px;
+  display: block;
+  width: 100%;
+  padding: 2px 5px 5px 7px;
+  letter-spacing: 1.5px;
+  word-spacing: 2px;
+}
+
+.weOffer__title {
+  color:#304741;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  .weOffer__item  {
+    width: auto;
+    height: auto;
+    max-width: auto;
+    margin-bottom: 20px;
+    font-size: 14px;
+    object-fit: cover;
+    justify-content: space-between;
+    margin: 8px 0.3% 8px 0.3%;
+  }
+  .weOffer__subtitle {
+    width: auto;
+    height: auto;
+    max-width: auto;
+    margin-bottom: 20px;
+    font-size: 14px;
+    object-fit: cover;
+    justify-content: space-between;
+  }
+}
+
+.weOffer__item:hover {
+  border: 3px solid #86aba1;
+  background-color: #86aba1;
+  box-shadow: 10px 10px 10px 10px #9ddfd3;
+  padding: 7px 7px 7px 7px;
+  margin: 1px 15px 8px 5px;
+}
+
+.weOffer__item:hover .weOffer__icon {
+  margin-top: 5px;
+  background-color:transparent;
+  color: #fff;
+  box-shadow: 5px 5px 5px 5px #9ddfd3;
+  margin-left: 5px;
+  font-size: 15px;
+  width:20px;
+}
