@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/docar/static/css/main.c21b85cb.chunk.css",
-    "main.js": "/docar/static/js/main.e76ac47f.chunk.js",
-    "main.js.map": "/docar/static/js/main.e76ac47f.chunk.js.map",
+    "main.css": "/docar/static/css/main.341e1b31.chunk.css",
+    "main.js": "/docar/static/js/main.54e5fab8.chunk.js",
+    "main.js.map": "/docar/static/js/main.54e5fab8.chunk.js.map",
     "runtime-main.js": "/docar/static/js/runtime-main.cd2bde47.js",
     "runtime-main.js.map": "/docar/static/js/runtime-main.cd2bde47.js.map",
     "static/css/2.11829350.chunk.css": "/docar/static/css/2.11829350.chunk.css",
-    "static/js/2.d11d6ead.chunk.js": "/docar/static/js/2.d11d6ead.chunk.js",
-    "static/js/2.d11d6ead.chunk.js.map": "/docar/static/js/2.d11d6ead.chunk.js.map",
+    "static/js/2.51c29908.chunk.js": "/docar/static/js/2.51c29908.chunk.js",
+    "static/js/2.51c29908.chunk.js.map": "/docar/static/js/2.51c29908.chunk.js.map",
     "index.html": "/docar/index.html",
-    "precache-manifest.319642893fda67f0e5681dbc913cb584.js": "/docar/precache-manifest.319642893fda67f0e5681dbc913cb584.js",
+    "precache-manifest.a889488704845d8c7b4d75aac802c482.js": "/docar/precache-manifest.a889488704845d8c7b4d75aac802c482.js",
     "service-worker.js": "/docar/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/docar/static/css/2.11829350.chunk.css.map",
-    "static/css/main.c21b85cb.chunk.css.map": "/docar/static/css/main.c21b85cb.chunk.css.map",
-    "static/js/2.d11d6ead.chunk.js.LICENSE.txt": "/docar/static/js/2.d11d6ead.chunk.js.LICENSE.txt",
+    "static/css/main.341e1b31.chunk.css.map": "/docar/static/css/main.341e1b31.chunk.css.map",
+    "static/js/2.51c29908.chunk.js.LICENSE.txt": "/docar/static/js/2.51c29908.chunk.js.LICENSE.txt",
     "static/media/aboutUsImg.jpg": "/docar/static/media/aboutUsImg.7cd598eb.jpg",
     "static/media/logo.jpg": "/docar/static/media/logo.286b1f1f.jpg",
     "static/media/service1.jpg": "/docar/static/media/service1.053dc337.jpg",
@@ -23,15 +23,16 @@
     "static/media/serviceOnRoad.jpg": "/docar/static/media/serviceOnRoad.28d8055e.jpg",
     "static/media/servicePlatinum.jpeg": "/docar/static/media/servicePlatinum.2c511a63.jpeg",
     "static/media/serviceSilver.jpg": "/docar/static/media/serviceSilver.8d3bbacf.jpg",
-    "static/media/servicevector1.jpg": "/docar/static/media/servicevector1.ee2f652d.jpg",
-    "static/media/servicevector2.jpg": "/docar/static/media/servicevector2.8491564e.jpg",
+    "static/media/servicevector1.jpg": "/docar/static/media/servicevector1.8491564e.jpg",
+    "static/media/servicevector2.jpg": "/docar/static/media/servicevector2.ee2f652d.jpg",
+    "static/media/servicevector3.jpg": "/docar/static/media/servicevector3.200c6ff9.jpg",
     "static/media/toolsIcon1.jpg": "/docar/static/media/toolsIcon1.42452ab0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd2bde47.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.d11d6ead.chunk.js",
-    "static/css/main.c21b85cb.chunk.css",
-    "static/js/main.e76ac47f.chunk.js"
+    "static/js/2.51c29908.chunk.js",
+    "static/css/main.341e1b31.chunk.css",
+    "static/js/main.54e5fab8.chunk.js"
   ]
 }
