@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11765db8c162bed69af8e394868f35fa",
+    "revision": "97b3446721c94fb0c3e449a332039dff",
     "url": "/docar/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/docar/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "cbfe678e94087ebc93aa",
-    "url": "/docar/static/css/main.593e6c19.chunk.css"
+    "revision": "07bc89c98ebdf5d36876",
+    "url": "/docar/static/css/main.324abf14.chunk.css"
   },
   {
     "revision": "46be6358d6e5ab32b632",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/docar/static/js/2.51c29908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbfe678e94087ebc93aa",
-    "url": "/docar/static/js/main.3446ff7d.chunk.js"
+    "revision": "07bc89c98ebdf5d36876",
+    "url": "/docar/static/js/main.b130bdd1.chunk.js"
   },
   {
     "revision": "8e3cdc1c2abea2dae294",
