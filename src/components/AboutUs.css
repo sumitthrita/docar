@@ -256,3 +256,58 @@
   flex-wrap: wrap;
   flex-direction: row;
 }
+
+/* service Vector Image */
+
+.serviceVector__container {
+  box-sizing: border-box;
+  padding-top: 5px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.serviceVector__imageBox {
+  flex: 42%;
+  max-width: 42%;
+  margin: 1% 4%;
+}
+
+@media screen and (max-width:992px) {
+  .serviceVector__imageBox {
+    flex: 100%;
+    max-width: 80%;
+    padding: 0 10%;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .serviceVector__imageBox {
+    flex: 100%;
+    max-width: 80%;
+    padding: 0 6%;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .serviceVector__imageBox {
+    flex: 100%;
+    max-width: 80%;
+    padding: 0 6%;
+    margin-left: 5%;
+  }
+  .serviceVector_image {
+    height: 80%;
+    width: 95%;
+  }
+}

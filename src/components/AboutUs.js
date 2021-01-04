@@ -3,6 +3,8 @@ import "./AboutUs.css";
 import Image from '../components/assets/aboutUsImg.jpg';
 import ToolsIcon from '../components/assets/toolsIcon1.jpg';
 import WeOffer from "./WeOffer";
+import ServiceVector1 from '../components/assets/servicevector1.jpg';
+import ServiceVector2 from '../components/assets/servicevector2.jpg';
 import WeOfferDetails from "./WeOfferDetails";
 // import FixingProcess from "./FixingProcess";
 import FixingProcessDetails from "./FixingProcessDetails";
@@ -46,6 +48,14 @@ const Aboutus = () => {
             </div>
             <div class="weOffer__details">
               {WeOfferDetails.map(createweoffer)}
+            </div>
+          </div>
+          <div className="serviceVector__container" >
+            <div className="serviceVector__imageBox">
+              <img src={ServiceVector1} alt="vecor_image" className="serviceVector_image" />
+            </div>
+            <div className="serviceVector__imageBox">
+              <img src={ServiceVector2} alt="vecor_image" className="serviceVector_image" />
             </div>
           </div>
           <div className="weOffer__container">
