@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/docar/static/css/main.341e1b31.chunk.css",
-    "main.js": "/docar/static/js/main.5ce4853c.chunk.js",
-    "main.js.map": "/docar/static/js/main.5ce4853c.chunk.js.map",
+    "main.css": "/docar/static/css/main.593e6c19.chunk.css",
+    "main.js": "/docar/static/js/main.3446ff7d.chunk.js",
+    "main.js.map": "/docar/static/js/main.3446ff7d.chunk.js.map",
     "runtime-main.js": "/docar/static/js/runtime-main.cd2bde47.js",
     "runtime-main.js.map": "/docar/static/js/runtime-main.cd2bde47.js.map",
     "static/css/2.11829350.chunk.css": "/docar/static/css/2.11829350.chunk.css",
     "static/js/2.51c29908.chunk.js": "/docar/static/js/2.51c29908.chunk.js",
     "static/js/2.51c29908.chunk.js.map": "/docar/static/js/2.51c29908.chunk.js.map",
     "index.html": "/docar/index.html",
-    "precache-manifest.ac47990335cca273e202209b9e4055d6.js": "/docar/precache-manifest.ac47990335cca273e202209b9e4055d6.js",
+    "precache-manifest.e498fbed1da750787b7c3437fb005516.js": "/docar/precache-manifest.e498fbed1da750787b7c3437fb005516.js",
     "service-worker.js": "/docar/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/docar/static/css/2.11829350.chunk.css.map",
-    "static/css/main.341e1b31.chunk.css.map": "/docar/static/css/main.341e1b31.chunk.css.map",
+    "static/css/main.593e6c19.chunk.css.map": "/docar/static/css/main.593e6c19.chunk.css.map",
     "static/js/2.51c29908.chunk.js.LICENSE.txt": "/docar/static/js/2.51c29908.chunk.js.LICENSE.txt",
     "static/media/aboutUsImg.jpg": "/docar/static/media/aboutUsImg.7cd598eb.jpg",
     "static/media/logo.jpg": "/docar/static/media/logo.286b1f1f.jpg",
@@ -25,14 +25,14 @@
     "static/media/serviceSilver.jpg": "/docar/static/media/serviceSilver.8d3bbacf.jpg",
     "static/media/servicevector1.jpg": "/docar/static/media/servicevector1.1c207053.jpg",
     "static/media/servicevector2.jpg": "/docar/static/media/servicevector2.614826c9.jpg",
-    "static/media/servicevector3.jpg": "/docar/static/media/servicevector3.9db31587.jpg",
+    "static/media/servicevector3.jpg": "/docar/static/media/servicevector3.d3578e17.jpg",
     "static/media/toolsIcon1.jpg": "/docar/static/media/toolsIcon1.42452ab0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd2bde47.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.51c29908.chunk.js",
-    "static/css/main.341e1b31.chunk.css",
-    "static/js/main.5ce4853c.chunk.js"
+    "static/css/main.593e6c19.chunk.css",
+    "static/js/main.3446ff7d.chunk.js"
   ]
 }
